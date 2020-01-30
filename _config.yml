@@ -8,8 +8,8 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "https://hiroshilab.github.io/NfluxMap/"
-baseurl: "/NfluxMap"
+url: "https://NfluxMap.github.io"
+baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -31,7 +31,7 @@ navbar-links:
   PUBLICATIONS: "publications"
   Contact Us:
     - About Us: "aboutme"
-    - GitHub: "https://github.com/HiroshiLab"
+    - GitHub: "https://github.com/NfluxMap"
     - G.Scholar: "https://scholar.google.com/"
     - LinkedIn: "https://www.linkedin.com/in/"
     - DOE BER website: "https://www.energy.gov/science/ber/biological-and-environmental-research"
@@ -80,7 +80,7 @@ author:
 social-network-links:
   rss: true
   email: "maeda2@wisc.edu"
-  github: HiroshiLab
+  github: NfluxMap
   twitter: 
   google-scholar: 
 #  reddit: yourname
