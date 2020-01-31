@@ -23,9 +23,9 @@ description: N flux Map project
 
 # List of links in the navigation bar
 navbar-links:
-  PROJECT: "research_A"
+  PROJECT: "project"
   TEAM: "team"
-  RESOURCES: "research_B"
+  RESOURCES: "resources"
   PUBLICATIONS: "publications"
   Contact Us:
     - About Us: "aboutus"
