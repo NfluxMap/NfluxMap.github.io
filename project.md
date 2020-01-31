@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research A
+title: Project
 
 ---
 
