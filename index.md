@@ -15,6 +15,7 @@ use-site-title: true
 ## Acknowledgement
 This research was supported by the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research, Genomic Science Program grant no. **DE-SC0020390**, and DOE Joint Genome Institute (JGI), Community Science Program **(CSP)-503757**
 
+DOE logo.png
 
 ## Job opening 
 To be posted...
