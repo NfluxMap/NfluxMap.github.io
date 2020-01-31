@@ -4,13 +4,12 @@ title: Contact
 subtitle: In a nutshell...
 ---
 
-###### For any inquiries and sample requests, please contact:
+#### For any inquiries and sample requests, please contact:
 
-#### Hiroshi Maeda, Ph.D.
 
-University of Wisconsin, Madison
+### Hiroshi Maeda, Ph.D.
 
-Department of Botany
+University of Wisconsin-Madison, Department of Botany
 
 430 Lincoln Drive, Madison, WI 53706 USA 
 
