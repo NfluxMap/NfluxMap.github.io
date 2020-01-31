@@ -2,11 +2,11 @@
 layout: page
 title: Publications
 ---
-#### Project publications
-To be posted
+## Project publications
+To be posted...
 
 
-#### Relevant prior publications by PIs
+## Relevant prior publications by PIs
 Wang, M. & Maeda, H. A. Aromatic amino acid aminotransferases in plants. [Phytochem Rev](doi:10.1007/s11101-017-9520-6) 1–29 (2017). 
 
 Wang, M., Toda, K. & Maeda, H. A. Biochemical properties and subcellular localization of tyrosine aminotransferases in Arabidopsis thaliana. Phytochemistry 132, 16–25 (2016).
