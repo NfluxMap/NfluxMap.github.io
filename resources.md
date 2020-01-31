@@ -9,10 +9,11 @@ category: Jekyll
 
 ## Plant aminotransferase database:
 
-### Arabidopsis thaliana
+
+### *Arabidopsis thaliana*
 To be posted...
 
-### Sorghum bicolor
+### *Sorghum bicolor*
 To be posted...
 
 
