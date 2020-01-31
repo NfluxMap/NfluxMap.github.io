@@ -13,12 +13,10 @@ category: Jekyll
 
 ## Hiroshi Maeda Lab
 University of Wisconsin-Madison
-
 Plant biochemistry and metabolism
-
 https://maeda.botany.wisc.edu/wiki/
 
-<img src="../img/team/cHiroshi.png" alt='ML' height="50px">
+<img src="../img/team/cHiroshi.png" alt='ML' height="150px">
 
 
 
@@ -29,9 +27,8 @@ Nanostructure-Initiator Mass Spectrometry (NIMS) and metabolomics
 
 http://www.northenlab.org/
 
-<img src="../img/team/cTrent.png" alt='ML' height="50px">
-
-<img src="../img/team/cMarkus.png" alt='ML' height="50px">
+<img src="../img/team/cTrent.png" alt='ML' height="150px">
+<img src="../img/team/cMarkus.png" alt='ML' height="150px">
 
 
 ## Yasuo Yoshikuni Lab
@@ -41,7 +38,7 @@ Gene synthesis, enzyme structure-function analysis and design
 
 https://biosciences.lbl.gov/profiles/yasuo-yoshikuni/
 
-<img src="../img/team/cYasuo.png" alt='ML' height="50px">
+<img src="../img/team/cYasuo.png" alt='ML' height="150px">
 
 
 
@@ -52,7 +49,7 @@ High throughput in vitro protein synthesis
 
 http://lab.agr.hokudai.ac.jp/takasuka/members_en.html
 
-<img src="../img/team/cTaichi.png" alt='ML' height="50px">
+<img src="../img/team/cTaichi.png" alt='ML' height="150px">
 
 
 
@@ -63,4 +60,4 @@ Metabolic network modeling
 
 https://www.mpimp-golm.mpg.de/13193/Zoran_Nikoloski
 
-<img src="../img/team/cZoran.png" alt='ML' height="50px">
+<img src="../img/team/cZoran.png" alt='ML' height="150px">
