@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NFM home
+title: NFM
 subtitle: Building Nitrogen Flux Map (NFM) of Plants
 use-site-title: true
 ---
