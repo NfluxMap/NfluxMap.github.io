@@ -10,10 +10,10 @@ use-site-title: true
 
 <p align='left'>
 	<img src="../img/logo_UW.png" alt='logo_UW' height="100px">
-</p>
 	<img src="../img/logo_Potsdam.png" alt='logo_Potsdam' height="150px">
 	<img src="../img/logo_Hokkaido.png" alt='logo_Hokkaido' height="130px">
 	<img src="../img/logo_LBNL" alt='logo_LBNL' height="130px">
+</p>
 
 ## News
 2020 Annaul DOE PI meeting is coming up in the end of February.
