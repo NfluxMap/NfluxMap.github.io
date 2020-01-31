@@ -30,10 +30,8 @@ navbar-links:
   Contact Us:
     - About Us: "aboutus"
     - GitHub: "https://github.com/NfluxMap"
-    - G.Scholar: "https://scholar.google.com/"
-    - LinkedIn: "https://www.linkedin.com/in/"
-    - DOE BER website: "https://www.energy.gov/science/ber/biological-and-environmental-research"
-
+    - DOE BER site: "https://www.energy.gov/science/ber/biological-and-environmental-research"
+    - DOE CSP site: "https://jgi.doe.gov/user-programs/program-info/csp-overview/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
