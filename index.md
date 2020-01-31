@@ -26,7 +26,7 @@ This research was supported by the U.S. Department of Energy, Office of Science,
 	<img src="../img/DOE logo.png" alt='DOE logo' height="70px">
 </p>
 <p align='right'>
-	<img src="../img/logo_JGI.png" alt='logo_JGI' height="70px">
+	<img src="../img/logo_JGI.png" alt='JGI_logo' height="70px">
 </p>
 
 
