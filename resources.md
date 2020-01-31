@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research B
+title: Resources
 show-avatar: true
 category: Jekyll
 ---
@@ -11,6 +11,15 @@ category: Jekyll
 </p>
 
 
-description
+Plant aminotransferase database:
 
-goals
+Arabidopsis thaliana
+
+
+Sorghum bicolor
+
+
+
+Github codes
+
+
