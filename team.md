@@ -12,11 +12,9 @@ category: Jekyll
 
 
 ## Hiroshi Maeda Lab
-University of Wisconsin-Madison
+University of Wisconsin-Madison (https://maeda.botany.wisc.edu/wiki/)
 Plant biochemistry and metabolism
-https://maeda.botany.wisc.edu/wiki/
-
-<img src="../img/team/cHiroshi.png" alt='ML' height="150px">
+<img src="../img/team/cHiroshi.png" height="150px">
 
 
 
