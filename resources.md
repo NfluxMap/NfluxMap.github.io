@@ -7,12 +7,12 @@ category: Jekyll
 
 
 
-# Plant aminotransferase database:
+## Plant aminotransferase database:
 
-#### Arabidopsis thaliana
+### Arabidopsis thaliana
 To be posted...
 
-#### Sorghum bicolor
+### Sorghum bicolor
 To be posted...
 
 
@@ -23,7 +23,7 @@ To be posted...
 
 
 
-# Github codes
+## Github codes
 Developed codes will be poosted at our [Github](https://github.com/NfluxMap).
 
 
