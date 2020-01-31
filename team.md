@@ -5,7 +5,7 @@ show-avatar: true
 category: Jekyll
 ---
 
-# [Hiroshi Maeda Lab](https://maeda.botany.wisc.edu/wiki/)
+### [Hiroshi Maeda Lab](https://maeda.botany.wisc.edu/wiki/)
 University of Wisconsin-Madison 
 
 Plant biochemistry and metabolism
@@ -15,7 +15,7 @@ Plant biochemistry and metabolism
 
 
 
-# [Trent Northen Lab](http://www.northenlab.org/)
+### [Trent Northen Lab](http://www.northenlab.org/)
 Lawrence Berkeley National Laboratory (LBNL) 
 
 Nanostructure-Initiator Mass Spectrometry (NIMS) and metabolomics
@@ -25,7 +25,7 @@ Nanostructure-Initiator Mass Spectrometry (NIMS) and metabolomics
 
 
 
-# [Yasuo Yoshikuni Lab](https://biosciences.lbl.gov/profiles/yasuo-yoshikuni/)
+### [Yasuo Yoshikuni Lab](https://biosciences.lbl.gov/profiles/yasuo-yoshikuni/)
 Lawrence Berkeley National Laboratory (LBNL)
 
 Gene synthesis, enzyme structure-function analysis and design
@@ -35,7 +35,7 @@ Gene synthesis, enzyme structure-function analysis and design
 
 
 
-# [Taichi Takasuka Lab](http://lab.agr.hokudai.ac.jp/takasuka/members_en.html)
+### [Taichi Takasuka Lab](http://lab.agr.hokudai.ac.jp/takasuka/members_en.html)
 Hokkaido University 
 
 High throughput in vitro protein synthesis
@@ -45,7 +45,7 @@ High throughput in vitro protein synthesis
 
 
 
-# [Zoran Nikoloski Lab](https://www.mpimp-golm.mpg.de/13193/Zoran_Nikoloski)
+### [Zoran Nikoloski Lab](https://www.mpimp-golm.mpg.de/13193/Zoran_Nikoloski)
 University of Potsdam & Max Planck Institute of Molecular Plant Physiology
 
 Metabolic network modeling
