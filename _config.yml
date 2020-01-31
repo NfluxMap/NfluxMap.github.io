@@ -28,7 +28,7 @@ navbar-links:
   RESOURCES: "research_B"
   PUBLICATIONS: "publications"
   Contact Us:
-    - About Us: "aboutme"
+    - About Us: "aboutus"
     - GitHub: "https://github.com/NfluxMap"
     - G.Scholar: "https://scholar.google.com/"
     - LinkedIn: "https://www.linkedin.com/in/"
