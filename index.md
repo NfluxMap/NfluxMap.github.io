@@ -16,7 +16,7 @@ use-site-title: true
 This research was supported by the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research, Genomic Science Program grant no. **DE-SC0020390**, and DOE Joint Genome Institute (JGI), Community Science Program **(CSP)-503757**
 
 <p align='right'>
-	<img src="../img/DOE logo.png" alt='DOE logo' height="100px">
+	<img src="../img/DOE logo.png" alt='DOE logo' height="70px">
 </p>
 
 
