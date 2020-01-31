@@ -1,5 +1,12 @@
+---
+layout: page
+title: About us
+subtitle: In a nutshell...
+---
 
-
+<p align='center'>
+	<img src="../img/path.jpg" alt='pathway' height="350px">
+</p>
 
 
 For any inquiries and sample requests, please contact:
