@@ -10,9 +10,16 @@ category: Jekyll
 # Plant aminotransferase database:
 
 #### Arabidopsis thaliana
-
+To be posted...
 
 #### Sorghum bicolor
+To be posted...
+
+
+
+<p align='center'>
+	<img src="../img/research/woundstressHM.png" alt='WoundStress' height="200px">
+</p>
 
 
 
@@ -20,9 +27,7 @@ category: Jekyll
 Developed codes will be poosted at our [Github](https://github.com/NfluxMap).
 
 
-<p align='center'>
-	<img src="../img/research/woundstressHM.png" alt='WoundStress' height="200px">
-</p>
+
 
 
 
