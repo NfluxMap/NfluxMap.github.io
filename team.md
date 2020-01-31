@@ -12,50 +12,34 @@ category: Jekyll
 
 
 ## Hiroshi Maeda Lab
-University of Wisconsin-Madison (https://maeda.botany.wisc.edu/wiki/)
+University of Wisconsin-Madison <https://maeda.botany.wisc.edu/wiki/>
 Plant biochemistry and metabolism
-<img src="../img/team/cHiroshi.png" height="150px">
+<img src="../img/team/cHiroshi.png" height="300px">
 
 
 
 ## Trent Northen Lab
-Lawrence Berkeley National Laboratory (LBNL)
-
+Lawrence Berkeley National Laboratory (LBNL) <http://www.northenlab.org/>
 Nanostructure-Initiator Mass Spectrometry (NIMS) and metabolomics
-
-http://www.northenlab.org/
-
-<img src="../img/team/cTrent.png" alt='ML' height="150px">
-<img src="../img/team/cMarkus.png" alt='ML' height="150px">
+<img src="../img/team/cTrent.png" alt='ML' height="200px">
+<img src="../img/team/cMarkus.png" alt='ML' height="200px">
 
 
 ## Yasuo Yoshikuni Lab
-Lawrence Berkeley National Laboratory (LBNL)
-
+Lawrence Berkeley National Laboratory (LBNL) <https://biosciences.lbl.gov/profiles/yasuo-yoshikuni/>
 Gene synthesis, enzyme structure-function analysis and design
-
-https://biosciences.lbl.gov/profiles/yasuo-yoshikuni/
-
-<img src="../img/team/cYasuo.png" alt='ML' height="150px">
+<img src="../img/team/cYasuo.png" alt='ML' height="200px">
 
 
 
 ## Taichi Takasuka Lab
-Hokkaido University
-
+Hokkaido University <http://lab.agr.hokudai.ac.jp/takasuka/members_en.html>
 High throughput in vitro protein synthesis
-
-http://lab.agr.hokudai.ac.jp/takasuka/members_en.html
-
-<img src="../img/team/cTaichi.png" alt='ML' height="150px">
+<img src="../img/team/cTaichi.png" alt='ML' height="200px">
 
 
 
-## Zoran Nikoloski Lab
+## [Zoran Nikoloski Lab] (https://www.mpimp-golm.mpg.de/13193/Zoran_Nikoloski)
 University of Potsdam & Max Planck Institute of Molecular Plant Physiology
-
 Metabolic network modeling
-
-https://www.mpimp-golm.mpg.de/13193/Zoran_Nikoloski
-
-<img src="../img/team/cZoran.png" alt='ML' height="150px">
+<img src="../img/team/cZoran.png" alt='ML' height="200px">
