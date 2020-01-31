@@ -18,7 +18,7 @@ To be posted...
 
 
 <p align='center'>
-	<img src="../img/ATphylogeny2.png" alt='AT phylogeny' height="200px">
+	<img src="../img/ATphylogeny2.png" alt='AT phylogeny' height="500px">
 </p>
 
 
