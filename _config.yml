@@ -28,7 +28,7 @@ navbar-links:
   RESOURCES: "resources"
   PUBLICATIONS: "publications"
   Contact Us:
-    - About Us: "aboutus"
+    - Contact: "aboutus"
     - GitHub: "https://github.com/NfluxMap"
     - DOE BER site: "https://www.energy.gov/science/ber/biological-and-environmental-research"
     - DOE CSP site: "https://jgi.doe.gov/user-programs/program-info/csp-overview/"
