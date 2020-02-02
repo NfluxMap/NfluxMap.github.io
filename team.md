@@ -10,7 +10,7 @@ University of Wisconsin-Madison
 
 Plant biochemistry and metabolism
 
-Hiroshi Maeda <img src="../img/team/cHiroshi.png" height="200px">
+<img src="../img/team/cHiroshi.png" height="200px"> Hiroshi Maeda 
 
 
 
