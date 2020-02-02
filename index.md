@@ -4,7 +4,7 @@ title: NFM
 subtitle: Building Nitrogen Flux Map (NFM) of Plants
 use-site-title: true
 ---
-<p align='left'>
+<p align='center'>
 	<img src="../img/NFM logo1.png" alt='NFM logo' height="80px">
 </p>
 
