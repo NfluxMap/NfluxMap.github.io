@@ -20,8 +20,8 @@ Lawrence Berkeley National Laboratory (LBNL)
 
 Nanostructure-Initiator Mass Spectrometry (NIMS) and metabolomics
 
-<img src="../img/team/cTrent.png" alt='ML' height="200px">
-<img src="../img/team/cMarkus.png" alt='ML' height="200px">
+Trent Northen <img src="../img/team/cTrent.png" alt='ML' height="200px">
+Markus De Raad <img src="../img/team/cMarkus.png" alt='ML' height="200px">
 
 
 
