@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact
-subtitle: In a nutshell...
 ---
 
 #### For any inquiries and sample requests, please contact:
