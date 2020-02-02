@@ -5,7 +5,7 @@ subtitle: Building Nitrogen Flux Map (NFM) of Plants
 use-site-title: true
 ---
 <p align='center'>
-	<img src="../img/NFM logo1.png" alt='NFM logo' height="0px">
+	<img src="../img/NFM logo1.png" alt='NFM logo' height="150px">
 </p>
 
 ## Project Goals
