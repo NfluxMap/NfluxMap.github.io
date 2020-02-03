@@ -7,11 +7,10 @@ category: Jekyll
 
 ## [Hiroshi Maeda Lab](https://maeda.botany.wisc.edu/wiki/)
 University of Wisconsin-Madison 
-
 Plant biochemistry and metabolism
 
 <img src="../img/team/cHiroshi.png" height="200px"> Hiroshi Maeda 
-
+---
 
 
 
@@ -20,9 +19,9 @@ Lawrence Berkeley National Laboratory (LBNL)
 
 Nanostructure-Initiator Mass Spectrometry (NIMS) and metabolomics
 
-Trent Northen <img src="../img/team/cTrent.png" alt='ML' height="200px">
-Markus De Raad <img src="../img/team/cMarkus.png" alt='ML' height="200px">
-
+<img src="../img/team/cTrent.png" alt='ML' height="200px"> Trent Northen
+<img src="../img/team/cMarkus.png" alt='ML' height="200px"> Markus De Raad 
+---
 
 
 ## [Yasuo Yoshikuni Lab](https://biosciences.lbl.gov/profiles/yasuo-yoshikuni/)
@@ -30,8 +29,8 @@ Lawrence Berkeley National Laboratory (LBNL)
 
 Gene synthesis, enzyme structure-function analysis and design
 
-<img src="../img/team/cYasuo.png" alt='ML' height="200px">
-
+<img src="../img/team/cYasuo.png" alt='ML' height="200px"> Yasuo Yoshikuni
+---
 
 
 
@@ -40,8 +39,8 @@ Hokkaido University
 
 High throughput in vitro protein synthesis
 
-<img src="../img/team/cTaichi.png" alt='ML' height="200px">
-
+<img src="../img/team/cTaichi.png" alt='ML' height="200px"> Taichi Takasuka
+---
 
 
 
@@ -50,12 +49,6 @@ University of Potsdam & Max Planck Institute of Molecular Plant Physiology
 
 Metabolic network modeling
 
-<img src="../img/team/cZoran.png" alt='ML' height="200px">
+<img src="../img/team/cZoran.png" alt='ML' height="200px"> Zoran Nikoloski
+---
 
-
-
-
-
-<p align='center'>
-	<img src="../img/research/machine-learn.png" alt='ML' height="250px">
-</p>
