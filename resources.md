@@ -19,7 +19,7 @@ To be posted...
 
 
 <p align='center'>
-	<img src="../img/ATphylogeny2.png" alt='AT phylogeny' height="500px">
+	<img src="../img/ATphylogeny2.png" alt='AT phylogeny' height="330px">
 </p>
 
 
