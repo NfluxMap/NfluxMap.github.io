@@ -36,6 +36,16 @@ Lawrence Berkeley National Laboratory (LBNL)
 
 ---
 
+## [Zoran Nikoloski Lab](https://www.mpimp-golm.mpg.de/13193/Zoran_Nikoloski)
+University of Potsdam & Max Planck Institute of Molecular Plant Physiology
+
+*Metabolic network and flux modeling*
+
+<img src="../img/team/cZoran.png" alt='ML' height="200px"> Zoran Nikoloski
+
+
+
+---
 
 
 ## [Taichi Takasuka Lab](http://lab.agr.hokudai.ac.jp/takasuka/members_en.html)
@@ -48,13 +58,4 @@ Hokkaido University
 ---
 
 
-
-## [Zoran Nikoloski Lab](https://www.mpimp-golm.mpg.de/13193/Zoran_Nikoloski)
-University of Potsdam & Max Planck Institute of Molecular Plant Physiology
-
-*Metabolic network and flux modeling*
-
-<img src="../img/team/cZoran.png" alt='ML' height="200px"> Zoran Nikoloski
-
----
 
