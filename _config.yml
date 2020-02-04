@@ -35,7 +35,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "../img/NFMlogo3.png"
+avatar: "../img/NFM logo3.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -45,8 +45,8 @@ avatar: "../img/NFMlogo3.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#99CCFF"
-navbar-text-col: "#003366"
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#005fed"
