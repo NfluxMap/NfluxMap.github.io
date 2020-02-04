@@ -49,7 +49,7 @@ navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#005fed"
+link-col: "#003366"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
@@ -59,7 +59,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 # navbar-img: "/img/bgimage.png"
-footer-img: "/img/footer.jpg"
+footer-img: "/img/footerNFM.png"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
