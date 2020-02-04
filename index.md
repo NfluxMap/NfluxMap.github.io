@@ -30,14 +30,9 @@ This research was supported by the U.S. Department of Energy, Office of Science,
 </p>
 
 
-## Job opening 
+## Position opening 
 To be posted...
 
-
-&nbsp;[PROJECT](#project-overview) &nbsp; &nbsp; [RESEARCHERS](#people-research) &nbsp; &nbsp; [OUTREACH](#teaching-and-outreach) &nbsp; &nbsp; [+MORE](#more)|
-
-|Name     |Position     |Joined     |
-|  |  |  
 
 
 
