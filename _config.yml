@@ -15,6 +15,7 @@ baseurl: ""
 
 # Name of website
 title: NFM home
+favicon: assets/img/NFMlogo3.png 
 
 # Short description of your site
 description: N flux Map project
