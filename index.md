@@ -31,8 +31,10 @@ This research was supported by the U.S. Department of Energy, Office of Science,
 
 
 ## Position opening 
-To be posted...
+Open postdoc position at Lawrence Berkeley National Laboratory (LBNL):
+"Synthetic Biology – Enzyme Evolution and Design Postdoctoral Scholar"
 
+[https://lbl.referrals.selectminds.com/jobs/synthetic-biology-%E2%80%93-enzyme-evolution-and-design-postdoctoral-scholar-2455]
 
 
 
