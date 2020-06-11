@@ -46,7 +46,7 @@ University of Potsdam & Max Planck Institute of Molecular Plant Physiology
 
 <img src="../img/team/cZoran.png" alt='ML' height="200px"> Zoran Nikoloski
 
-
+<img src="../img/team/cSebastian.png" alt='ML' height="200px"> Sebastian Huss
 
 ---
 
