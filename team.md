@@ -36,7 +36,7 @@ Lawrence Berkeley National Laboratory (LBNL)
 
 <img src="../img/team/cYasuo.png" alt='ML' height="200px"> Yasuo Yoshikuni
 
-<img src="../img/team/Delia.png" alt='/' height="200px">   Delia Casas Pastor (joining July 2020!)
+<img src="../img/team/Sangwoo.png" alt='/' height="200px">   Sangwooo Han (joining January 2021!)
 
 ---
 
