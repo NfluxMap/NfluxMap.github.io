@@ -35,8 +35,7 @@ Lawrence Berkeley National Laboratory (LBNL)
 *Gene synthesis, enzyme structure-function analysis and design*
 
 <img src="../img/team/cYasuo.png" alt='ML' height="200px"> Yasuo Yoshikuni
-
-<img src="../img/team/cSangWoo.png" alt='/' height="200px"> Sangwoo Han
+<img src="../img/team/cSangWoo.png" alt='/' height="200px"> SangWoo Han
 
 ---
 
