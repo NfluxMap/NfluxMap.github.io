@@ -18,7 +18,7 @@ use-site-title: true
 </p>
 
 ## News
-2020 Annaul DOE PI meeting is coming up in the end of February.
+2022 Annaul DOE PI meeting is coming up in March.
 
 
 ## Acknowledgement
@@ -31,9 +31,7 @@ This research was supported by the U.S. Department of Energy, Office of Science,
 
 
 ## Position opening 
-Open postdoc position at Lawrence Berkeley National Laboratory (LBNL):
-["Synthetic Biology – Enzyme Evolution and Design Postdoctoral Scholar"](https://lbl.referrals.selectminds.com/jobs/synthetic-biology-%E2%80%93-enzyme-evolution-and-design-postdoctoral-scholar-2455)
-
+There is no open postdoc position at the moment.
 
 
 
