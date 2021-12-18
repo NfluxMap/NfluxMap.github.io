@@ -10,10 +10,9 @@ University of Wisconsin-Madison
 
 *Plant biochemistry and metabolism*
 
-<img src="../img/team/cHiroshi.png" height="200px"> 
-Hiroshi Maeda 
-<img src="../img/team/cKaan.png" alt='ML' height="200px"> Kaan Koper 
-<img src="../img/team/cRika.png" alt='ML' height="200px"> Rika Judd 
+<img src="../img/team/cHiroshi.png" height="200px">  <img src="../img/team/cKaan.png" height="200px"> <img src="../img/team/cRika.png" height="200px"> 
+
+Hiroshi Maeda    Kaan Koper    Rika Judd 
 
 ---
 
@@ -24,8 +23,8 @@ Lawrence Berkeley National Laboratory (LBNL)
 
 *Nanostructure-Initiator Mass Spectrometry (NIMS) and metabolomics*
 
-<img src="../img/team/cTrent.png" alt='ML' height="200px"> Trent Northen
-<img src="../img/team/cMarkus.png" alt='ML' height="200px"> Markus De Raad 
+<img src="../img/team/cTrent.png" alt='/' height="200px"> Trent Northen
+<img src="../img/team/cMarkus.png" alt='/' height="200px"> Markus De Raad 
 
 ---
 
@@ -35,7 +34,7 @@ Lawrence Berkeley National Laboratory (LBNL)
 
 *Gene synthesis, enzyme structure-function analysis and design*
 
-<img src="../img/team/cYasuo.png" alt='ML' height="200px"> Yasuo Yoshikuni
+<img src="../img/team/cYasuo.png" alt='/' height="200px"> Yasuo Yoshikuni
 <img src="../img/team/cSangWoo.png" alt='/' height="200px"> SangWoo Han
 
 ---
@@ -45,8 +44,8 @@ University of Potsdam & Max Planck Institute of Molecular Plant Physiology
 
 *Metabolic network and flux modeling*
 
-<img src="../img/team/cZoran.png" alt='ML' height="200px"> Zoran Nikoloski
-<img src="../img/team/cSebastian.png" alt='ML' height="200px"> Sebastian Huss
+<img src="../img/team/cZoran.png" alt='/' height="200px"> Zoran Nikoloski
+<img src="../img/team/cSebastian.png" alt='/' height="200px"> Sebastian Huss
 
 ---
 
@@ -56,9 +55,9 @@ Hokkaido University
 
 *High throughput in vitro protein synthesis*
 
-<img src="../img/team/cTaichi.png" alt='ML' height="200px"> Taichi Takasuka
-<img src="../img/team/cShogo.png" alt='ML' height="200px"> Shogo Hataya
-<img src="../img/team/cSora.png" alt='ML' height="200px"> Sora Fukui
+<img src="../img/team/cTaichi.png" alt='/' height="200px"> Taichi Takasuka
+<img src="../img/team/cShogo.png" alt='/' height="200px"> Shogo Hataya
+<img src="../img/team/cSora.png" alt='/' height="200px"> Sora Fukui
 
 ---
 
