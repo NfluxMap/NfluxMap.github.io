@@ -58,6 +58,7 @@ Hokkaido University
 
 <img src="../img/team/cTaichi.png" alt='ML' height="200px"> Taichi Takasuka
 <img src="../img/team/cShogo.png" alt='ML' height="200px"> Shogo Hataya
+<img src="../img/team/cSora.png" alt='ML' height="200px"> Sora Fukui
 
 ---
 
