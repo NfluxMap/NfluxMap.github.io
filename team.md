@@ -10,9 +10,9 @@ University of Wisconsin-Madison
 
 *Plant biochemistry and metabolism*
 
-<img src="../img/team/cHiroshi.png" height="200px">  <img src="../img/team/cKaan.png" height="200px"> <img src="../img/team/cRika.png" height="200px"> 
-
-Hiroshi Maeda    Kaan Koper    Rika Judd 
+<img src="../img/team/cHiroshi.png" height="200px">	Hiroshi Maeda	
+<img src="../img/team/cKaan.png" height="200px"> Kaan Koper
+<img src="../img/team/cRika.png" height="200px"> Rika Judd
 
 ---
 
