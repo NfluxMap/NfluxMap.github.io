@@ -23,7 +23,7 @@ As a comparison, **[19 E. coli AT genes](https://docs.google.com/spreadsheets/d/
 The total of **[98 AT candidates from Sorghum bicolor](https://docs.google.com/spreadsheets/d/1ffAFImUYVaM3WVJst4MjU-BYWgHGzyzYVgPTWByW5C0/edit#gid=0)** were gene synthesized and cloned into **the pEU vector** for in vitro translation as well as **a modified pET28 vector (pETm3SmRS)** for E. coli expression and Level0 vector for the Golden Gate cloning.  
 
 <p align='center'>
-	<img src="../img/bHM1280.png" alt='pETm3SmRS vector' height="330px">
+	<img src="../img/bHM1280.png" alt='pETm3SmRS vector' height="500px">
 	
 
 <p align='center'>
