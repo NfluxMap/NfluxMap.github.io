@@ -24,7 +24,7 @@ The total of 98 AT candidates from Sorghum bicolor were gene synthesized by JGI 
 #### [Sorghum bicolor AT clones](https://docs.google.com/spreadsheets/d/1ffAFImUYVaM3WVJst4MjU-BYWgHGzyzYVgPTWByW5C0/edit#gid=0)
 
 <p align='center'>
-	<img src="../img/bHM1280.png" alt='*pETm3SmRS vector*' height="200px">
+	<img src="../img/bHM1280.png" alt='pETm3SmRS vector' height="200px">
 	
 If you are interested in obtaining some of these clones, please contact at <maeda2@wisc.edu>.
 
