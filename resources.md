@@ -5,6 +5,11 @@ show-avatar: true
 category: Jekyll
 ---
 
+## Summary of previously-reported aminotrasferase (AT) enzymes:
+
+**[AT enzymes from Arabidopsis, human, yeast, and E. coli](https://docs.google.com/spreadsheets/d/1wWiw8S0WbORURofEPqMMtEwfUAuEbq4r/edit?usp=sharing&ouid=113316265237670214716&rtpof=true&sd=true)** are shown in different tabs for each organism. 
+
+This is the summary of AT enzymes discussed in Koper K, Han S-W, Pastor DS, Yoshikuni Y, Maeda HA (2022) **Evolutionary Origin and Functional Diversification of Aminotransferases** *J. Biol. Chem. In revision*
 
 
 ## Plant aminotransferase (AT) database:
