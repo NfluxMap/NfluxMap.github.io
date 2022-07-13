@@ -3,7 +3,11 @@ layout: page
 title: Publications
 ---
 ### Project publications
-To be posted...
+
+Huß S., Judd R.S., Koper K., Maeda H.A., Nikoloski Z.(2022) An automated workflow that generates atom mappings for large scale metabolic models and its application to Arabidopsis thaliana *Plant J online* https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.15903
+
+Koper K., Han S-W., Pastor D.C., Yoshikuni Y., Maeda H.A. (2022) Evolutionary Origin and Functional Diversification of Aminotransferases *J. Biol. Chem. online* https://doi.org/10.1016/j.jbc.2022.102122
+
 
 _______________
 
