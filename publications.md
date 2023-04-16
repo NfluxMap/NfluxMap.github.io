@@ -4,13 +4,13 @@ title: Publications
 ---
 ### Project publications
 
-De Raad M., Koper K., Deng K., Bowen B.P., Maeda H.A., Northen T.R. (2023) Mass spectrometry imaging-based assays for aminotransferase activity reveal a broad substrate spectrum for a previously uncharacterized enzyme *J. Biol. Chem. 299, 102939*  https://doi.org/10.1016/j.jbc.2023.102939
+De Raad M., Koper K., Deng K., Bowen B.P., Maeda H.A., Northen T.R. (2023) **Mass spectrometry imaging-based assays for aminotransferase activity reveal a broad substrate spectrum for a previously uncharacterized enzyme** [*J. Biol. Chem. 299, 102939*] (https://doi.org/10.1016/j.jbc.2023.102939)
 
-Koper K.*, Hataya S., Hall A.G., Takasuka T.E., Maeda H.A.* (2023) Biochemical characterization of plant aromatic aminotransferases *Methods Enzymol.680, Pages 35-83*. https://doi.org/10.1016/bs.mie.2022.07.034
+Koper K.*, Hataya S., Hall A.G., Takasuka T.E., Maeda H.A.* (2023) **Biochemical characterization of plant aromatic aminotransferases** *Methods Enzymol.680, Pages 35-83*. https://doi.org/10.1016/bs.mie.2022.07.034
 
-Huß S., Judd R.S., Koper K., Maeda H.A., Nikoloski Z.(2022) An automated workflow that generates atom mappings for large scale metabolic models and its application to Arabidopsis thaliana *Plant J 111, 1486-1500* https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.15903
+Huß S., Judd R.S., Koper K., Maeda H.A., Nikoloski Z.(2022) **An automated workflow that generates atom mappings for large scale metabolic models and its application to Arabidopsis thaliana** *Plant J 111, 1486-1500* https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.15903
 
-Koper K., Han S-W., Pastor D.C., Yoshikuni Y., Maeda H.A. (2022) Evolutionary Origin and Functional Diversification of Aminotransferases *J. Biol. Chem. 298: 102122* https://doi.org/10.1016/j.jbc.2022.102122
+Koper K., Han S-W., Pastor D.C., Yoshikuni Y., Maeda H.A. (2022) **Evolutionary Origin and Functional Diversification of Aminotransferases** *J. Biol. Chem. 298: 102122* https://doi.org/10.1016/j.jbc.2022.102122
 
 
 _______________
