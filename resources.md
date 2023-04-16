@@ -9,7 +9,7 @@ category: Jekyll
 
 **[AT enzymes from Arabidopsis, human, yeast, and E. coli](https://docs.google.com/spreadsheets/d/1wWiw8S0WbORURofEPqMMtEwfUAuEbq4r/edit?usp=sharing&ouid=113316265237670214716&rtpof=true&sd=true)** are shown in different tabs for each organism. 
 
-This is the summary of AT enzymes discussed in Koper K, Han S-W, Pastor DS, Yoshikuni Y, Maeda HA (2022) **Evolutionary Origin and Functional Diversification of Aminotransferases** *J. Biol. Chem. In revision*
+This is the summary of AT enzymes discussed in **Koper K. et al (2022) Evolutionary Origin and Functional Diversification of Aminotransferases** *[J. Biol. Chem. 298: 102122](https://doi.org/10.1016/j.jbc.2022.102122)*
 
 
 ## Plant aminotransferase (AT) database:
