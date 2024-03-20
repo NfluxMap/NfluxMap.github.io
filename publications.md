@@ -4,6 +4,10 @@ title: Publications
 ---
 ### Project publications
 
+Koper K.#, Han S-W.#, Kothadia R., Salamon H., Yoshikuni Y., Maeda H.A. (2024) **Multi-substrate specificity shaped the complex evolution of the aminotransferase family across the tree of life.** *[bioRvix doi: 10.1101/2024.03.19.585368](https://www.biorxiv.org/content/10.1101/2024.03.19.585368v1)* #These authors contributed equally.
+
+Maeda H.A., de Oliveira M.V.V. (2024) **VAS1-mediated nitrogen shufffling for aromatic amino acid homeostasis.** *[Trends Plant Sci. online](https://pubmed.ncbi.nlm.nih.gov/38480091/)*
+
 De Raad M., Koper K., Deng K., Bowen B.P., Maeda H.A., Northen T.R. (2023) **Mass spectrometry imaging-based assays for aminotransferase activity reveal a broad substrate spectrum for a previously uncharacterized enzyme** *[J. Biol. Chem. 299, 102939](https://doi.org/10.1016/j.jbc.2023.102939)*
 
 Koper K.*, Hataya S., Hall A.G., Takasuka T.E., Maeda H.A.* (2023) **Biochemical characterization of plant aromatic aminotransferases** *[Methods Enzymol. 680, 35-83](https://doi.org/10.1016/bs.mie.2022.07.034)*
