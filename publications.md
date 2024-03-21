@@ -10,9 +10,13 @@ Maeda H.A., de Oliveira M.V.V. (2024) **VAS1-mediated nitrogen shufffling for ar
 
 De Raad M., Koper K., Deng K., Bowen B.P., Maeda H.A., Northen T.R. (2023) **Mass spectrometry imaging-based assays for aminotransferase activity reveal a broad substrate spectrum for a previously uncharacterized enzyme** *[J. Biol. Chem. 299, 102939](https://doi.org/10.1016/j.jbc.2023.102939)*
 
-Koper K.*, Hataya S., Hall A.G., Takasuka T.E., Maeda H.A.* (2023) **Biochemical characterization of plant aromatic aminotransferases** *[Methods Enzymol. 680, 35-83](https://doi.org/10.1016/bs.mie.2022.07.034)*
+Huß S. and Nikoloski Z. (2023) **Systematic comparison of local approaches for isotopically nonstationary metabolic flux analysis.** *[Front. Plant Sci. DOI: 10.3389/fpls.2023.1178239](https://doi.org/10.3389/fpls.2023.1178239)* 
 
-Huß S., Judd R.S., Koper K., Maeda H.A., Nikoloski Z.(2022) **An automated workflow that generates atom mappings for large scale metabolic models and its application to Arabidopsis thaliana** *[Plant J 111, 1486-1500](https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.15903)*
+Koper K., Hataya S., Hall A.G., Takasuka T.E., Maeda H.A. (2023) **Biochemical characterization of plant aromatic aminotransferases** *[Methods Enzymol. 680, 35-83](https://doi.org/10.1016/bs.mie.2022.07.034)*
+
+Han S-W., Yoshikuni Y (2022) **Microbiome engineering for sustainable agriculture: using synthetic biology to enhance nitrogen metabolism in plant-associated microbes.** *[Curr. Opin. in Microbiol. 68, 102172](https://www.sciencedirect.com/science/article/pii/S136952742200056X?via%3Dihub)*
+
+Huß S., Judd R.S., Koper K., Maeda H.A., Nikoloski Z.(2022) **An automated workflow that generates atom mappings for large scale metabolic models and its application to *Arabidopsis thaliana*** *[Plant J 111, 1486-1500](https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.15903)*
 
 Koper K., Han S-W., Pastor D.C., Yoshikuni Y., Maeda H.A. (2022) **Evolutionary Origin and Functional Diversification of Aminotransferases** *[J. Biol. Chem. 298: 102122](https://doi.org/10.1016/j.jbc.2022.102122)*
 
